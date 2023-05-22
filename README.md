@@ -7,7 +7,8 @@ Hi, I’m @kachunwu from Hong Kong. Working as a researcher in the university, m
 I am also having some private project related to analytics about the video game industry, ChatGPT and some other stuffs. If you want to have collaboration with me, feel free to send me a email!
 
 ## Data Analytic Project
-**Coming soon!**
+1. Google Data Analytics Professional Certificate: How Can a Wellness Technology Company Play It Smart?
+** Coming Soon! **
 
 ## Useful tools I developed
 [hk-school-contact](https://github.com/kachunwu/hk-school-contact): a Python-based web scraper that helps me scrap the school information from Education Bureau of HKSAR
