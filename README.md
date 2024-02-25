@@ -8,7 +8,7 @@ I am also having some private project related to analytics about the video game 
 
 ## Data Analytic Project
 ### 1. Google Data Analytics Professional Certificate: How Can a Wellness Technology Company Play It Smart?
-[Kaggle Notebook](https://www.kaggle.com/code/kenwu229/bellabeat-case-study) ** Work in Progress **
+[Kaggle Notebook](https://www.kaggle.com/code/kenwu229/bellabeat-case-study)
 
 ## Useful tools I developed
 [hk-school-contact](https://github.com/kachunwu/hk-school-contact): a Python-based web scraper that helps me scrap the school information from Education Bureau of HKSAR
