@@ -9,7 +9,8 @@ I am also having some private project related to analytics about the video game 
 ## Data Analytic Project
 ### 1. Google Data Analytics Professional Certificate: How Can a Wellness Technology Company Play It Smart?
 [Kaggle Notebook](https://www.kaggle.com/code/kenwu229/bellabeat-case-study)
-
+### 2. Power BI Dashboard: Daily figure of passenger traffic
+[Link](https://app.powerbi.com/view?r=eyJrIjoiYWUwMmM3NjAtMGE4My00ZjNiLTg0NDAtOTk0MzAxZTk0YTNmIiwidCI6IjQyZjliNTRlLTI0NzctNDFiYS1iZjA5LTdhMGQyYTgzZmYwOSIsImMiOjEwfQ%3D%3D)
 ## Useful tools I developed
 [hk-school-contact](https://github.com/kachunwu/hk-school-contact): a Python-based web scraper that helps me scrap the school information from Education Bureau of HKSAR
 (This is a skill-test project rather than. A more accurate official data would be from [data.gov.hk](https://data.gov.hk))
