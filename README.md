@@ -12,6 +12,7 @@ I am also having some private project related to analytics about the video game 
 
 ## Useful tools I developed
 [hk-school-contact](https://github.com/kachunwu/hk-school-contact): a Python-based web scraper that helps me scrap the school information from Education Bureau of HKSAR
+(This is a skill-test project rather than. A more accurate official data would be from [data.gov.hk](https://data.gov.hk))
 
 ## Neuroscience Projects
 [eeg_preprocessing_pipeline](https://github.com/kachunwu/eeg_preprocessing_pipeline): my preprocessing pipeline for my MPhil thesis
