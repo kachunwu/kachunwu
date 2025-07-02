@@ -2,7 +2,7 @@
 This is a portfolio that I constantly updated.
 
 ## About me
-Hi, I’m @kachunwu from Hong Kong. Working as a researcher in the university, my primary job duty is to manage and analyse data consisting psychological measures. I’m currently learning multiple languages, including Python, R, SQL, and Matlab, each for their specialized features.
+Hi, I’m @kachunwu from Hong Kong. Working as a researcher in the university, my primary job duty is to manage and analyse data consisting psychological measures. I’m currently learning multiple languages, including Python, R, SQL, and Matlab, each for their specialized features. All my coding and programming skills are self-learning so it may be wild.
 
 ## Featured Repositories
 
